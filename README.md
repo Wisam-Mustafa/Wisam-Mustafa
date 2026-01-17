@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! <br> I'm <b>Wisam M. Mustafa</b>, a Data Scientist and AI Researcher from <img src="https://cdn-icons-png.flaticon.com/512/197/197573.png" width="13"/> <b>Baghdad, Iraq</b>. <br> I specialize in <b>Machine Learning, Time Series Analysis, and Educational Technology</b>.</p>
+<p>Welcome to my page! <br> I'm <b>Wisam M. Mustafa</b>, a Data Scientist and AI Researcher  <img src="https://cdn-icons-png.flaticon.com/512/197/197573.png" width="13"/> <br> I specialize in <b>Machine Learning, Time Series Analysis, and Educational Technology</b>.</p>
 
 <h3>Things I code with</h3>
 <p>
@@ -49,25 +49,18 @@
 
 <h3>Education & Certifications</h3>
 <ul>
-  <li><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/graduation-cap_1f393.png" width="20" alt="edu" /> Master of Science in Information Systems and Technologies (Practical AI)</b><br/><i>Ural Federal University, Russia (2022 – 2024)</i></li>
+  <li><b>Master of Science in Information Systems and Technologies (Practical AI)</b><br/> </li>
   
-  <li><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/graduation-cap_1f393.png" width="20" alt="edu" /> Bachelor of Science in Computers</b><br/><i>University of Baghdad, Iraq</i></li>
+  <li><b> Bachelor of Science in Computers</b><br/> </li>
 
   <li><a href="https://learn.365datascience.com/c/117dac83b4/"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/scroll_1f4dc.png" width="20" alt="cert" /> Data Scientist Career Track Certificate</b></a><br/><i>365 Data Science (Covering Python, SQL, Deep Learning, and Statistics).</i></li>
 </ul>
 
-<h3>Welcome to <img src="https://cdn-icons-png.flaticon.com/512/197/197573.png" width="13"/> Baghdad!</h3>
-<!-- You can add dynamic photos here if you have an integration, currently static placeholders -->
+ <!-- You can add dynamic photos here if you have an integration, currently static placeholders -->
 <p>
     I have a strong background in education, having trained over 650 students and 30 teachers in e-learning platforms. I am passionate about bridging the gap between academic theory and practical AI applications.
 </p>
 
-<h3>Where to find me</h3>
-<p>
-<a href="mailto:wisam.m.mustafa@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-wisam.m.mustafa%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
-<!-- Add your LinkedIn URL below inside the href -->
-<a href="https://www.linkedin.com/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
 
-------------
-<p align="center">Last updated: 2025<br /><i>"Adapting teaching to student's capabilities."</i></p>
+ 
+ 
