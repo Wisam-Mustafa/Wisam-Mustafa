@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! <br> I'm <b>Wisam M. Mustafa</b>, a Data Scientist and AI Researcher  <img src="https://cdn-icons-png.flaticon.com/512/197/197573.png" width="13"/> <br> I specialize in <b>Machine Learning, Time Series Analysis, and Educational Technology</b>.</p>
+<p>Welcome to my page! <br> I'm <b>Wisam M. Mustafa</b>, a Data Scientist and AI Researcher  <br> I specialize in <b>Machine Learning, Time Series Analysis, and Educational Technology</b>.</p>
 
 <h3>Things I code with</h3>
 <p>
@@ -53,7 +53,8 @@
   
   <li><b> Bachelor of Science in Computers</b><br/> </li>
 
-  <li><a href="https://learn.365datascience.com/c/117dac83b4/"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/scroll_1f4dc.png" width="20" alt="cert" /> Data Scientist Career Track Certificate</b></a><br/><i>365 Data Science (Covering Python, SQL, Deep Learning, and Statistics).</i></li>
+  <li><b> Data Scientist Career Track Certificate (365 Data Science, Online)</b><br/> </li>
+
 </ul>
 
  <!-- You can add dynamic photos here if you have an integration, currently static placeholders -->
