@@ -20,7 +20,7 @@
   <img alt="Power BI" src="https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
-
+<!--
 <h3>Research & Publications</h3>
 <table>
   <thead align="center">
@@ -46,7 +46,7 @@
     </tr>
   </tbody>
 </table>
-
+-->
 <h3>Education & Certifications</h3>
 <ul>
   <li><b>Master of Science in Information Systems and Technologies (Practical AI)</b><br/> </li>
