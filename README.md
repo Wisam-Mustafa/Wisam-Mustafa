@@ -20,33 +20,7 @@
   <img alt="Power BI" src="https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
-<!--
-<h3>Research & Publications</h3>
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>📄 Publication Title</b></td>
-      <td><b>📅 Year</b></td>
-      <td><b>🏛️ Publisher</b></td>
-      <td><b>🔍 Context</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>Classification of Outdoor Sports Using Symbolic Fourier Transform of Multivariate Time Series</b></td>
-      <td>2025</td>
-      <td>IEEE</td>
-      <td>Achieved 93.0% accuracy using WEASEL+MUSE algorithm for wearable devices.</td>
-    </tr>
-	  <tr>
-      <td><b>OculusGraphy: Description and Time Domain Analysis of Full-Field Electroretinograms Database</b></td>
-      <td>2023</td>
-      <td>IEEE</td>
-      <td>Comprehensive analysis of 1975 ERG signals for pediatric diagnostics and AI training.</td>
-    </tr>
-  </tbody>
-</table>
--->
+ 
 <h3>Education & Certifications</h3>
 <ul>
   <li><b>Master of Science in Information Systems and Technologies (Practical AI)</b><br/> </li>
@@ -57,10 +31,7 @@
 
 </ul>
 
- <!-- You can add dynamic photos here if you have an integration, currently static placeholders -->
-<p>
-    I have a strong background in education, having trained over 650 students and 30 teachers in e-learning platforms. I am passionate about bridging the gap between academic theory and practical AI applications.
-</p>
+ 
 
 
  
