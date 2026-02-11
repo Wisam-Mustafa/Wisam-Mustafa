@@ -21,15 +21,7 @@
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
  
-<h3>Education & Certifications</h3>
-<ul>
-  <li><b>Master of Science in Information Systems and Technologies (Practical AI)</b><br/> </li>
-  
-  <li><b> Bachelor of Science in Computers</b><br/> </li>
 
-  <li><b> Data Scientist Career Track Certificate (365 Data Science, Online)</b><br/> </li>
-
-</ul>
 
  
 
